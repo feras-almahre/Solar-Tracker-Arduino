@@ -12,17 +12,9 @@ A single-axis solar tracking system developed using Arduino UNO, two LDR sensors
 
 ## Repository Contents
 
-```text
-code/
-    solar_tracker.ino
-
-3d-design/
-    ARM.stl
-    BASE.stl
-    BOTTOM SECTION.stl
-    LDR MOUNT.stl
-    MIDDLE SECTION.stl
-```
+- Arduino source code (`solar_tracker.ino`)
+- 3D printable models (`.stl` files)
+- Project documentation (`README.md`)
 
 ## Hardware Used
 
@@ -36,4 +28,4 @@ code/
 
 ## Author
 
-Feras Al-mahre
+Feras Al-mahri
